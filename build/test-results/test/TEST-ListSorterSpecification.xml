@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ListSorterSpecification" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T15:42:41" hostname="DESKTOP-6QRG024" time="0.006">
+<testsuite name="ListSorterSpecification" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T15:49:22" hostname="DESKTOP-6QRG024" time="0.792">
   <properties/>
-  <testcase name="sort" classname="ListSorterSpecification" time="0.006"/>
+  <testcase name="sort" classname="ListSorterSpecification" time="0.792"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

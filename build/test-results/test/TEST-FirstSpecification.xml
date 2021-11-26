@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FirstSpecification" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T15:35:25" hostname="DESKTOP-6QRG024" time="0.549">
+<testsuite name="FirstSpecification" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T15:42:40" hostname="DESKTOP-6QRG024" time="0.565">
   <properties/>
-  <testcase name="distinct_bug_8726" classname="FirstSpecification" time="0.549"/>
+  <testcase name="distinct_bug_8726" classname="FirstSpecification" time="0.565"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
